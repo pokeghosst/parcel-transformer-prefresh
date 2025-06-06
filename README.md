@@ -1,6 +1,15 @@
 # parcel-transformer-prefresh
 
+  <a href="https://github.com/pokeghosst/parcel-transformer-prefresh/blob/main/LICENSE">
+    <img src="https://badgen.now.sh/github/license/pokeghosst/parcel-transformer-prefresh" alt="version" />
+  </a>
+  <a href="https://npmjs.org/package/parcel-transformer-prefresh">
+    <img src="https://badgen.now.sh/npm/v/parcel-transformer-prefresh" alt="version" />
+  </a>
+
 Transformer enabling [prefresh](https://github.com/preactjs/prefresh) Hot Module Reloading (HMR) in Preact apps using Parcel
+
+<a href="https://www.buymeacoffee.com/pokegh0st" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;" ></a>
 
 ## Installing
 
