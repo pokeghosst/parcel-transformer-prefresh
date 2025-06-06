@@ -1,0 +1,36 @@
+{
+  "name": "parcel-transformer-prefresh",
+  "version": "0.1.0",
+  "description": "Parcel transformer for prefresh",
+  "main": "src/PrefreshTransformer.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "parcel",
+    "preact",
+    "hmr",
+    "hot-reload",
+    "prefresh",
+    "fast-refresh",
+    "transformer"
+  ],
+  "author": "pokeghost",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pokeghosst/parcel-transformer-prefresh"
+  },
+  "homepage": "https://github.com/pokeghosst/parcel-transformer-prefresh",
+  "peerDependencies": {
+    "@parcel/core": "^2.0.0",
+    "preact": "^10.0.0"
+  },
+  "dependencies": {
+    "@parcel/plugin": "^2.15.2",
+    "@babel/core": "^7.27.4",
+    "@prefresh/babel-plugin": "^0.5.1",
+    "@prefresh/core": "^0.5.1",
+    "@prefresh/utils": "^1.2.0"
+  }
+}
