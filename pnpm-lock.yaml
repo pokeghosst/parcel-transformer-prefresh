@@ -9,19 +9,19 @@ importers:
   .:
     dependencies:
       '@babel/core':
-        specifier: ^7.23.0
+        specifier: ^7.27.4
         version: 7.27.4
       '@parcel/core':
         specifier: ^2.0.0
         version: 2.15.2
       '@parcel/plugin':
-        specifier: ^2.12.0
+        specifier: ^2.15.2
         version: 2.15.2(@parcel/core@2.15.2)
       '@prefresh/babel-plugin':
         specifier: ^0.5.1
         version: 0.5.1
       '@prefresh/core':
-        specifier: ^1.5.2
+        specifier: ^1.5.3
         version: 1.5.3(preact@10.26.8)
       '@prefresh/utils':
         specifier: ^1.2.0
