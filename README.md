@@ -1,18 +1,21 @@
 # parcel-transformer-prefresh
 
-  <a href="https://github.com/pokeghosst/parcel-transformer-prefresh/blob/main/LICENSE">
-    <img src="https://badgen.now.sh/github/license/pokeghosst/parcel-transformer-prefresh" alt="version" />
-  </a>
-  <a href="https://npmjs.org/package/parcel-transformer-prefresh">
-    <img src="https://badgen.now.sh/npm/v/parcel-transformer-prefresh" alt="version" />
-  </a>
+<a href="https://github.com/pokeghosst/parcel-transformer-prefresh/blob/main/LICENSE">
+  <img src="https://badgen.now.sh/github/license/pokeghosst/parcel-transformer-prefresh" alt="license" />
+</a>
+<a href="https://npmjs.org/package/parcel-transformer-prefresh">
+  <img src="https://badgen.now.sh/npm/v/parcel-transformer-prefresh" alt="version" />
+</a>
+<a href="https://npmjs.org/package/parcel-transformer-prefresh">
+  <img src="https://badgen.now.sh/npm/dm/parcel-transformer-prefresh" alt="downloads" />
+</a>
 
 Transformer enabling [prefresh](https://github.com/preactjs/prefresh) Hot Module Reloading (HMR) in Preact apps using Parcel
 
 ## Installing
 
 ```
-npm install --save-dev parcel-transformer-prefresh
+npm install --save-dev parcel-transformer-prefresh @parcel/config-default @prefresh/core @prefresh/utils
 ```
 
 ## Usage
