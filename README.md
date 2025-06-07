@@ -9,8 +9,6 @@
 
 Transformer enabling [prefresh](https://github.com/preactjs/prefresh) Hot Module Reloading (HMR) in Preact apps using Parcel
 
-<a href="https://www.buymeacoffee.com/pokegh0st" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;" ></a>
-
 ## Installing
 
 ```
