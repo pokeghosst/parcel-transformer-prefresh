@@ -20,6 +20,7 @@ module.exports = new Transformer({
 
     const parserPlugins = [
       "jsx",
+      "decorators-legacy",
       "classProperties",
       "classPrivateProperties",
       "classPrivateMethods",
